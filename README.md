@@ -2,15 +2,15 @@
 閱讀時間：2024/02/15 ~ 
 
 ## 目錄
-Chapter 1: Getting Started [Note](./notes/ch1.md)   
+Chapter 1: Getting Started [Note](./notes/ch01.md)   
 
 ### Part I: The Basics
-Chapter 2: Variables and Basic Types [Note](./notes/ch2.md)  
-Chapter 3: Strings, Vectors, and Arrays [Note](./notes/ch3.md)  
-Chapter 4: Expressions [Note](./notes/ch4.md)  
-Chapter 5: Statements [Note](./notes/ch5.md)  
-Chapter 6: Functions [Note](./notes/ch6.md)  
-Chapter 7: Classes [Note](./notes/ch7.md)  
+Chapter 2: Variables and Basic Types [Note](./notes/ch02.md)  
+Chapter 3: Strings, Vectors, and Arrays [Note](./notes/ch03.md)  
+Chapter 4: Expressions [Note](./notes/ch04.md)  
+Chapter 5: Statements [Note](./notes/ch05.md)  
+Chapter 6: Functions [Note](./notes/ch06.md)  
+Chapter 7: Classes [Note](./notes/ch07.md)  
 
 ### Part II: The C++ Library
 Chapter 8: The IO Library  
