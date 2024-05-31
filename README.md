@@ -1,4 +1,4 @@
-# 《C++ Primer, 5th》筆記
+`# 《C++ Primer, 5th》筆記
 閱讀時間：  
 ch1 ~ ch10 2024/02/15 ~ 2024/03/01
 
@@ -14,11 +14,11 @@ Chapter 6: Functions [Note](./notes/ch06.md)
 Chapter 7: Classes [Note](./notes/ch07.md)  
 
 ### Part II: The C++ Library
-Chapter 8: The IO Library(./notes/ch08.md)  
-Chapter 9: Sequential Containers(./notes/ch09.md)  
-Chapter 10: Generic Algorithms(./notes/ch10.md)  
-Chapter 11: Associative Containers(./notes/ch11.md)  
-Chapter 12: Dynamic Memory(./notes/ch12.md)  
+Chapter 8: The IO Library [Note](./notes/ch08.md)  
+Chapter 9: Sequential Containers [Note](./notes/ch09.md)  
+Chapter 10: Generic Algorithms [Note](./notes/ch10.md)  
+Chapter 11: Associative Containers [Note](./notes/ch11.md)  
+Chapter 12: Dynamic Memory [Note](./notes/ch12.md)  
 
 ### Part III: Tools for Class Authors
 Chapter 13: Copy Control  
